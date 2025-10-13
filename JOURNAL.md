@@ -39,3 +39,22 @@ it would look something like this:
 ![2nd idea.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzA5LCJwdXIiOiJibG9iX2lkIn19--7cf58b2690038494475a9c700fb55d967b5823ed/image.png)
   
 
+## 10/13/2025 - Started with the schematic + minor placement  
+
+umm yeah, i started with the schematic for the devboard, it went well.  
+
+first i couldn't figure out some things like different voltages and i was concerced if i would need 2.5 volts too. but some wise people on the internet told that i can tie the VPP_2V5 pin to 3.3v directly. so yeah here it is.  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--1ab870271de5a5cc37668f126e9827509030f457/image.png)  
+
+
+and i think i will have to share a lot of GPIO to output to the headers. the space is very very small.  
+
+here's how the power part(dual buck converter) looks like:  
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--ebf36cdf682d56c1c31c8c17b9cb248295c430fb/image.png)  
+
+I basically wired the basics of FPGA and the rp2350a. now in the next sesh i will connect both the chips and add headers and hopefully i will be done with the schematic.  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAyNywicHVyIjoiYmxvYl9pZCJ9fQ==--3a3b6c45d02533d0de12d95c77d68549f5045b23/image.png)
+  
+
