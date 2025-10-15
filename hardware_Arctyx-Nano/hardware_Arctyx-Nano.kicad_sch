@@ -2268,6 +2268,189 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:LED"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "LED"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Light emitting diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Pins" "1=K 2=A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "LED diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "LED* LED_SMD:* LED_THT:*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "LED_0_1"
+				(polyline
+					(pts
+						(xy -3.048 -0.762) (xy -4.572 -2.286) (xy -3.81 -2.286) (xy -4.572 -2.286) (xy -4.572 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 -0.762) (xy -3.302 -2.286) (xy -2.54 -2.286) (xy -3.302 -2.286) (xy -3.302 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "LED_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:R"
 			(pin_numbers
 				(hide yes)
@@ -9104,6 +9287,82 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED")
+		(at 339.09 132.08 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "215b32c0-34cd-47fe-96aa-5f4bda8b9572")
+		(property "Reference" "D4"
+			(at 339.344 131.064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 339.344 133.604 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 339.09 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 339.09 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 339.09 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 339.09 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5dba04a3-25dd-40c6-a2f7-c35f37186755")
+		)
+		(pin "1"
+			(uuid "49f35740-d7a8-4c5f-9b97-4d7b4c7410ea")
+		)
+		(instances
+			(project "hardware_Arctyx-Nano"
+				(path "/dadf11aa-8e96-42b0-bb48-2980919511bd"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 224.79 59.69 0)
 		(unit 1)
@@ -10559,7 +10818,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "3.3u"
 			(at 78.74 219.71 90)
 			(effects
 				(font
@@ -10627,7 +10886,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "3.3u"
 			(at 125.73 209.55 90)
 			(effects
 				(font
@@ -11130,16 +11389,16 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x20_Pin")
-		(at 370.84 209.55 0)
+		(at 378.46 209.55 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "736ca598-9b85-4d97-b36f-5ec3cc319798")
 		(property "Reference" "J3"
-			(at 371.475 181.61 0)
+			(at 377.825 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11147,7 +11406,7 @@
 			)
 		)
 		(property "Value" "Conn_01x20_Pin"
-			(at 371.475 184.15 0)
+			(at 377.825 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11155,7 +11414,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical"
-			(at 370.84 209.55 0)
+			(at 378.46 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11164,7 +11423,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 370.84 209.55 0)
+			(at 378.46 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11173,7 +11432,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x20, script generated"
-			(at 370.84 209.55 0)
+			(at 378.46 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11848,6 +12107,82 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED")
+		(at 339.09 121.92 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9faca46a-a951-4d97-a7d6-34a8889f867c")
+		(property "Reference" "D2"
+			(at 339.344 119.888 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 339.344 122.428 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 339.09 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 339.09 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 339.09 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 339.09 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fe79f193-8c0f-4536-b2d2-c5a02ef6e1e3")
+		)
+		(pin "1"
+			(uuid "8221aeb5-1edb-4de6-b875-75cf2fa32455")
+		)
+		(instances
+			(project "hardware_Arctyx-Nano"
+				(path "/dadf11aa-8e96-42b0-bb48-2980919511bd"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 209.55 218.44 90)
 		(unit 1)
@@ -11978,6 +12313,82 @@
 			(project "hardware_Arctyx-Nano"
 				(path "/dadf11aa-8e96-42b0-bb48-2980919511bd"
 					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 339.09 127 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a975bc18-79e7-45bf-b05f-20e483e6d0d9")
+		(property "Reference" "D3"
+			(at 339.344 125.476 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 339.344 128.016 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 339.09 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 339.09 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 339.09 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 339.09 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e870cd9a-ee39-48ab-8920-712d2afdd28d")
+		)
+		(pin "1"
+			(uuid "b13ed5c1-e472-441a-971e-f42b76cd1e4f")
+		)
+		(instances
+			(project "hardware_Arctyx-Nano"
+				(path "/dadf11aa-8e96-42b0-bb48-2980919511bd"
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -12185,6 +12596,82 @@
 			(project ""
 				(path "/dadf11aa-8e96-42b0-bb48-2980919511bd"
 					(reference "Y1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 339.09 116.84 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b6129ef6-566e-45b5-92c4-841165d87305")
+		(property "Reference" "D1"
+			(at 339.344 115.062 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 339.344 117.602 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 339.09 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 339.09 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 339.09 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 339.09 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ddcd2fee-54bd-4388-914f-c622ec7ca91c")
+		)
+		(pin "1"
+			(uuid "8ef2ff19-e758-4b7b-b267-008a5de8a589")
+		)
+		(instances
+			(project ""
+				(path "/dadf11aa-8e96-42b0-bb48-2980919511bd"
+					(reference "D1")
 					(unit 1)
 				)
 			)
