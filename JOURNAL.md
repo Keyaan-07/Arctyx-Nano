@@ -58,9 +58,16 @@ I basically wired the basics of FPGA and the rp2350a. now in the next sesh i wil
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAyNywicHVyIjoiYmxvYl9pZCJ9fQ==--3a3b6c45d02533d0de12d95c77d68549f5045b23/image.png)
   
 
-## 10/20/2025 - Schematic Done!  
+## 10/20/2025 10 AM - Schematic Done!  
 
 Yes, i finished the schematic, and i changed my flash to W25q128JVP instead of W25q128JVS because the JVS was too big for the board and JVP is significantly smaller and thus helps with space. i have realised that the board will be very tightly made and i will have to choose assembly as the items are placed very very closely. i have added a lot of LEDs too to not not use any GPIO pin. as well as i have 8 wires connecting the two semiconductors together. i still have to search for suitable LEDs and then assign resistor values.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--acb66df7313854712125ff0daefc31ec130f8599/image.png)
+  
+
+## 10/20/2025 5 PM - Started with the PCB routing  
+
+I started with the PCB routing, and i am aiming for a 2 layer PCB because idk. But like i am facing a lot of issues with routing, it is real hard to route. The two ICs make it a lot lot harder to route. i have yet not placed and routed with the power part of the board because that is a pain and the bottom part of the PCB looks beautiful but a lot of routing is left there too. will prolly do it later.  ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--cb01718349a88ec91ebedc06619f707d055681c7/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcxMywicHVyIjoiYmxvYl9pZCJ9fQ==--6362833e6fb7addff4e2c7dc8036e0f717aec074/image.png)  
   
 
