@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Arctyx Nano**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/41).
-
-
 ## 10/4/2025 - deciding stuff  
 
 so, i have decided that i will be making an FPGA dev board in a raspi pico form factor, which will have the ice40up5k FPGA with 5280 LUTs. Here are some other things that i will need:
@@ -69,5 +65,13 @@ Yes, i finished the schematic, and i changed my flash to W25q128JVP instead of W
 I started with the PCB routing, and i am aiming for a 2 layer PCB because idk. But like i am facing a lot of issues with routing, it is real hard to route. The two ICs make it a lot lot harder to route. i have yet not placed and routed with the power part of the board because that is a pain and the bottom part of the PCB looks beautiful but a lot of routing is left there too. will prolly do it later.  ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--cb01718349a88ec91ebedc06619f707d055681c7/image.png)
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcxMywicHVyIjoiYmxvYl9pZCJ9fQ==--6362833e6fb7addff4e2c7dc8036e0f717aec074/image.png)  
+  
+
+## 10/21/2025 - Finished PCB routing  
+
+okay, I finally completed the PCB.. I can ship it just now after making the BOM and beautifying the repo but no, i choose to make the dev board better, fix a lot of mistakes prolly and add all the 3d models. i want this project to be as polished as possible from my side. I still have to assign values to a resistor or two and i'll do that later too. Here's some images:
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDAwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--d6489ac0b8a6fcd7e6a52734d43373b919479f80/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDAwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--5f50ee39e98dbfe3283c0c428b6ed6fb786f1f9f/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDAwMywicHVyIjoiYmxvYl9pZCJ9fQ==--487f55accceeb5de272b214df2befc08e7b007c9/image.png)
   
 
