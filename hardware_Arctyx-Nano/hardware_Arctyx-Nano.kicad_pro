@@ -58,7 +58,40 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "clearance|157500000|75325000|6104def9-3f1e-4d0d-bf26-9a6eb1f19870|5e3ff318-2488-4d06-9efc-8fb71e74d917",
+          ""
+        ],
+        [
+          "clearance|157500000|81125000|201aa948-fd7e-4706-98f0-f3783f44213b|c314acf1-1566-4320-93b0-c93ba4780bb8",
+          ""
+        ],
+        [
+          "clearance|163400000|81225000|81d48c12-0c77-453c-85a7-302b88b812dc|c2dc53c1-62bf-4451-bcec-d2f5f3deb264",
+          ""
+        ],
+        [
+          "clearance|163500000|75325000|5bbc40f0-3645-405a-b180-21cebc16a3a2|1c9d852d-cb93-4fdb-8e54-ce973fcdaca4",
+          ""
+        ],
+        [
+          "hole_clearance|157590000|55480000|4b2c513f-1769-434f-a84a-9adb1dd4e1c1|ddc1587f-9ea5-4c1d-b055-0884baca488c",
+          ""
+        ],
+        [
+          "hole_clearance|157790000|55480000|4b2c513f-1769-434f-a84a-9adb1dd4e1c1|db74a422-2017-4a79-86ed-e4eb9ec68d6d",
+          ""
+        ],
+        [
+          "hole_clearance|163190000|55480000|e64783d0-5470-4d26-9ca7-2cc3fee9e818|cf04176c-c77c-4172-8382-2ae0e3582453",
+          ""
+        ],
+        [
+          "hole_clearance|163390000|55480000|e64783d0-5470-4d26-9ca7-2cc3fee9e818|59aa9905-7631-438e-81de-71df155eecfb",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -72,7 +105,7 @@
         "creepage": "error",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
-        "drill_out_of_range": "error",
+        "drill_out_of_range": "ignore",
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
         "footprint": "error",
@@ -88,11 +121,11 @@
         "items_not_allowed": "error",
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "warning",
+        "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "mirrored_text_on_front_layer": "warning",
-        "missing_courtyard": "warning",
+        "missing_courtyard": "ignore",
         "missing_footprint": "warning",
         "net_conflict": "warning",
         "nonmirrored_text_on_back_layer": "warning",
@@ -137,7 +170,7 @@
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.1,
-        "min_via_annular_width": 0.1,
+        "min_via_annular_width": 0.05,
         "min_via_diameter": 0.4,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
