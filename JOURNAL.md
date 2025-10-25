@@ -85,9 +85,9 @@ removed extra traces like random traces connecting 3v3 because i switched to 4 l
 
 ## 10/25/2025 6 PM - PCB Complete!  
 
-I completed the PCB. Changed a few nets, added a 10uF cap for the 1.2v rail. added all the different 3d models, and idk why but it was a pain to find the RP2350A 3d model. About everything is complete, will finish beautifying the repo and make the BOM and senD it! Check out the Images:
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--43d1ab43b6ba573598102488ee03a43e2ff56d0d/image.png)
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--202642becc07420af9606d353ce87e4202b5e54a/image.png)
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--5804e25a84a97c522279d1fd9248fe4041c96012/image.png)
+I completed the PCB. Changed a few nets, added a 10uF cap for the 1.2v rail. added all the different 3d models, and idk why but it was a pain to find the RP2350A 3d model. About everything is complete, will finish beautifying the repo and make the BOM and senD it! Check out the Images:  
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--e5b7339cf39d11958470b0643ad9fbf2410786e1/image.png)  
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--1c835a335e09c17dee9a5268f709a42b1468aaf1/image.png)  
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--5804e25a84a97c522279d1fd9248fe4041c96012/image.png)  
   
 
