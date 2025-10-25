@@ -75,11 +75,19 @@ okay, I finally completed the PCB.. I can ship it just now after making the BOM 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDAwMywicHVyIjoiYmxvYl9pZCJ9fQ==--487f55accceeb5de272b214df2befc08e7b007c9/image.png)
   
 
-## 10/25/2025 - Removed silkscreen references + removed excess routes  
+## 10/25/2025 1 PM - Removed silkscreen references + removed excess routes  
 
 removed extra traces like random traces connecting 3v3 because i switched to 4 layers(made the routing so much easier as there were a few nets that were impossible to route). i made the PCB better overall. GPIO headers are yet to be added and i will add them later today. i also have to find a suitable resistor and add it's value. and yeah i have to add 3d models too along with branding and naming.  
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--f07c5fe68b04c5cb63bc48d48afe58dfbf048503/image.png)
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--70e012ac1dd14265114d0d3031cf44c7df2779af/image.png)
 
+  
+
+## 10/25/2025 6 PM - PCB Complete!  
+
+I completed the PCB. Changed a few nets, added a 10uF cap for the 1.2v rail. added all the different 3d models, and idk why but it was a pain to find the RP2350A 3d model. About everything is complete, will finish beautifying the repo and make the BOM and senD it! Check out the Images:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--43d1ab43b6ba573598102488ee03a43e2ff56d0d/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--202642becc07420af9606d353ce87e4202b5e54a/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--5804e25a84a97c522279d1fd9248fe4041c96012/image.png)
   
 
