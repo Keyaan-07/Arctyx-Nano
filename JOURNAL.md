@@ -75,3 +75,11 @@ okay, I finally completed the PCB.. I can ship it just now after making the BOM 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDAwMywicHVyIjoiYmxvYl9pZCJ9fQ==--487f55accceeb5de272b214df2befc08e7b007c9/image.png)
   
 
+## 10/25/2025 - Removed silkscreen references + removed excess routes  
+
+removed extra traces like random traces connecting 3v3 because i switched to 4 layers(made the routing so much easier as there were a few nets that were impossible to route). i made the PCB better overall. GPIO headers are yet to be added and i will add them later today. i also have to find a suitable resistor and add it's value. and yeah i have to add 3d models too along with branding and naming.  
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--f07c5fe68b04c5cb63bc48d48afe58dfbf048503/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--70e012ac1dd14265114d0d3031cf44c7df2779af/image.png)
+
+  
+
