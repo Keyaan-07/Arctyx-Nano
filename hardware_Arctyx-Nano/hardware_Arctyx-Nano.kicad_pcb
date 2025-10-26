@@ -1522,7 +1522,7 @@
 			(net 5 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "b5d7cdc7-5d3b-4cdb-a8e7-69943f7bb9ac")
+			(uuid "86085dcb-7f3d-4080-95ad-0f7a5eb8a827")
 		)
 		(pad "61" thru_hole circle
 			(at -0.85 0.85 270)
@@ -1534,7 +1534,7 @@
 			(net 5 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "b5d7cdc7-5d3b-4cdb-a8e7-69943f7bb9ac")
+			(uuid "6b57eed0-5933-42c4-a583-22a29579087b")
 		)
 		(pad "61" thru_hole circle
 			(at 0 -0.85 270)
@@ -1546,7 +1546,7 @@
 			(net 5 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "b5d7cdc7-5d3b-4cdb-a8e7-69943f7bb9ac")
+			(uuid "290079cb-a6af-4bd1-9bf4-f17f357ed21a")
 		)
 		(pad "61" thru_hole circle
 			(at 0 0 270)
@@ -1558,7 +1558,7 @@
 			(net 5 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "b5d7cdc7-5d3b-4cdb-a8e7-69943f7bb9ac")
+			(uuid "899c76a9-2ffc-4ef5-9ee5-7306859adb4b")
 		)
 		(pad "61" smd rect
 			(at 0 0 270)
@@ -1568,7 +1568,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "b5d7cdc7-5d3b-4cdb-a8e7-69943f7bb9ac")
+			(uuid "fba61f4d-ab1f-4c57-8a7f-ba4b6d98cff2")
 		)
 		(pad "61" thru_hole circle
 			(at 0 0.85 270)
@@ -1580,7 +1580,7 @@
 			(net 5 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "b5d7cdc7-5d3b-4cdb-a8e7-69943f7bb9ac")
+			(uuid "bebb4338-7e53-4c60-8da9-045bc39fa886")
 		)
 		(pad "61" thru_hole circle
 			(at 0.85 -0.85 270)
@@ -1592,7 +1592,7 @@
 			(net 5 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "b5d7cdc7-5d3b-4cdb-a8e7-69943f7bb9ac")
+			(uuid "5d710443-1fe5-4faf-856b-83cf0e712a7b")
 		)
 		(pad "61" thru_hole circle
 			(at 0.85 0 270)
@@ -1604,7 +1604,7 @@
 			(net 5 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "b5d7cdc7-5d3b-4cdb-a8e7-69943f7bb9ac")
+			(uuid "b9c8ab5e-1eed-4963-ad63-1ae3d799d3cc")
 		)
 		(pad "61" thru_hole circle
 			(at 0.85 0.85 270)
@@ -1616,7 +1616,7 @@
 			(net 5 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "b5d7cdc7-5d3b-4cdb-a8e7-69943f7bb9ac")
+			(uuid "79ec5a2b-3d1e-4bf4-9d05-bd84d25c962c")
 		)
 		(group ""
 			(uuid "17c2074b-7995-41ae-96be-c88c4ca24352")
