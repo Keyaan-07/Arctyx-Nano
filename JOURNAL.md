@@ -91,3 +91,15 @@ I completed the PCB. Changed a few nets, added a 10uF cap for the 1.2v rail. add
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--5804e25a84a97c522279d1fd9248fe4041c96012/image.png)  
   
 
+## 10/26/2025 - Branding+BOM  
+
+Okay, i did the branding for the board, it looks really cool!  
+I mainly added resistor values as well as branding. the font i used is just a spacex clone because it looks really cool. uhh yea i am gonna make BOM next and i hope it works!
+I reoriented the PCB to so it looks better in the PCB editor.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--b9724293643feccbebcdfbe5de3c5032cc46050b/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--d2096c0ea6c128991919371f41fdb115bdb7dfa1/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--327ec5e78f4f64bfa225480d17e7d4a908607844/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--01f30c7338f6a49f24f3c3b747b485c694a6be9f/image.png)
+  
+
