@@ -509,7 +509,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "hardware_Arctyx-Nano.step",
       "svg": "",
       "vrml": ""
     },
