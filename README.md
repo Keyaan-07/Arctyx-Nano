@@ -9,14 +9,13 @@ Check out the board on [KiCanvas](https://kicanvas.org/?github=https://github.co
 ![PCB](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--01f30c7338f6a49f24f3c3b747b485c694a6be9f/image.png)
 
 ## Features:
-> Dual core ARM Cortex-M33 Processor.  
-> (everything else the RP2350 has)  
-> 8 channel bus connecting the FPGA and the RP2350A
+> Dual core ARM Cortex-M33 Processor (also everything else the RP2350 has)  
+> 8 channel bus connecting the FPGA and the RP2350A  
 > 128Mbit of Flash.  
 > 6 General Purpose LEDs (4x for FPGA and 2x for RP2350A).  
 > RGB LED connected to the FPGA.  
-> Onboard Dual Stepdown Convertor.  
-> USB Boot Button for RP2350A.
+> Onboard Dual Stepdown Convertor.    
+> USB Boot Button for RP2350A.  
 
 ## IO Pin mapping:
 
