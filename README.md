@@ -17,3 +17,18 @@ Check out the board on [KiCanvas](https://kicanvas.org/?github=https://github.co
 > RGB LED connected to the FPGA.  
 > Onboard Dual Stepdown Convertor.  
 > USB Boot Button for RP2350A.
+
+### IO Pin mapping:
+
+| Pin Label | Pin on FPGA |  | Pin label | Pin on FPGA |
+| --------- | ----------- |  | --------- | ----------- |
+| IO1       | IOT_41a     |  | IO11      | IOB_4a      |
+| IO2       | IOT_42b     |  | IO12      | IOB_6a      |
+| IO3       | IOT_43a     |  | IO13      | IOB_9b      |
+| IO4       | IOT_44b     |  | IO14      | IOB_9a      |
+| IO5       | IOT_46b     |  | IO15      | IOB_13b     |
+| IO6       | IOT_48b     |  | IO16      | IOB_16a     |
+| IO7       | IOT_45a     |  | IO17      | IOB_18a     |
+| IO8       | IOT_50b     |  | IO18      | IOB_20a     |
+| IO9       | IOT_51a     |  | IO19      | IOB_22a     |
+| IO10      | IOT_49a     |  | IO20      | IOB_24a     |
