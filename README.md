@@ -97,7 +97,8 @@ Check out the board on [KiCanvas](https://kicanvas.org/?github=https://github.co
 | Y1                                                  | Crystal_GND24               | Crystal_SMD_3225-4Pin_3.2x2.5mm          | 2        | 0.1290  | Basic        | C9002          |
 | J1                                                  | USB_C_Receptacle_USB2.0_16P | USB_C_Receptacle_XKB_U262-16XN-4BVC11    | 0        | 0      | Do Not Place    | Do Not Place       |
 
-<img width="1127" height="392" alt="image" src="https://github.com/user-attachments/assets/166dfbc9-49b2-4d0a-aab4-dd28671af9c3" />
+<img width="1149" height="516" alt="image" src="https://github.com/user-attachments/assets/9f54a06f-3328-4dee-9e41-1fde40841cb8" />
+
 
 
 ## License and Contribution
