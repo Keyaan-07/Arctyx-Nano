@@ -51,8 +51,8 @@ Check out the board on [KiCanvas](https://kicanvas.org/?github=https://github.co
 
 | LED | Pin On FPGA/MCU  |
 | --- | ---------------  |
-| D1  | IOB_2a           |
-| D2  | IOB_0a           |
+| D1  | IOB_0a           |
+| D2  | IOB_2a           |
 | D3  | IOB_5b           |
 | D4  | IOB_3b_G6        |
 | D5  | GPIO21           |
