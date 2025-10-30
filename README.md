@@ -4,9 +4,8 @@ Arctyx Nano is an FPGA development board consisting of the ICE40UP5K FPGA from [
 
 Check out the board on [KiCanvas](https://kicanvas.org/?github=https://github.com/Keyaan-07/Arctyx-Nano/tree/main/hardware_Arctyx-Nano)
 
-![3d image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--b9724293643feccbebcdfbe5de3c5032cc46050b/image.png)
-
-![PCB](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--01f30c7338f6a49f24f3c3b747b485c694a6be9f/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjYyMywicHVyIjoiYmxvYl9pZCJ9fQ==--8e1904238cc1f1fccc21d808b4f02b6aca25bab1/image.png)  
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjYyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--e6b70fa875c88a282129f9bd7cd3edc8870532b8/image.png)  
 
 ## Features:
 > Dual core ARM Cortex-M33 Processor (also everything else the RP2350 has)  
@@ -65,10 +64,10 @@ Check out the board on [KiCanvas](https://kicanvas.org/?github=https://github.co
 | Item              | Cost  | Note               |
 | ----------------- | ----- | ------------------ |
 | PCB               | 17.8  | 4-Layers           |
-| PCBA              | 60.87 | Kinda Dense board  |
-| Shipping from JLC | 10.24 |                    |
+| PCBA              | 52.77 | Kinda Dense board  |
+| Shipping from JLC | 9.28  |                    |
 | coupon Discount   | \-9   | SMT monthly coupon |
-| Total             | 79.91 | USD                |
+| Total             | 70.85 | USD                |
 
 ### PCB Components Breakdown
 | Designator                                          | Designation                 | Footprint                                | Quantity | Amount | JLCPCB Lib type | JLCPCB Part Number |
@@ -78,7 +77,7 @@ Check out the board on [KiCanvas](https://kicanvas.org/?github=https://github.co
 | C16,C23,C3,C4,C5                                    | 4.7u                        | 0402                                     | 10       | 0.049  | Basic           | C23733             |
 | C20,C22                                             | 22u                         | 0603                                     | 4        | 0.0348 | Basic           | C59461             |
 | C24                                                 | 10u                         | 0603                                     | 2        | 0.0112 | Basic           | C19702             |
-| D1,D2,D3,D4,D5,D6                                   | LED                         | 0402                                     | 24       | 0.3528 | Extended        | C434448            |
+| D1,D2,D3,D4,D5,D6                                   | LED                         | 0603                                     | 12       | 0.1224 | Extended        | C2290            |
 | L1,L2,L3                                            | AOTA-B201610S3R3-101-T      | IND-SMD_L2.0-W1.6_AOTA-B201610S3R3-101-T | 6        | 1.0782 | Extended        | C42411119          |
 | R1,R2                                               | 5.1k                        | 0402                                     | 4        | 0.002  | Basic           | C25905             |
 | R3,R4                                               | 27                          | 0402                                     | 20       | 0.012  | Extended        | C138021            |
@@ -95,7 +94,7 @@ Check out the board on [KiCanvas](https://kicanvas.org/?github=https://github.co
 | U3                                                  | W25Q128JVP                  | WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm     | 2        | 2.472  | Extended        | C2441427           |
 | U4                                                  | RT8075ZQW                   | WDFN-10_L3.0-W3.0-P0.50-BL-EP            | 2        | 0.864  | Extended        | C250416            |
 | U5                                                  | TJ-S1608SW6TDSLCCYRGB-A5    | LED-ARRAY-SMD_4P-L1.6-W0.8-BL-FD         | 6        | 0.4314 | Extended        | C5356078           |
-| Y1                                                  | Crystal_GND24               | Crystal_SMD_3225-4Pin_3.2x2.5mm          | 5        | 1.716  | Extended        | C20625731          |
+| Y1                                                  | Crystal_GND24               | Crystal_SMD_3225-4Pin_3.2x2.5mm          | 2        | 0.1290  | Basic        | C9002          |
 | J1                                                  | USB_C_Receptacle_USB2.0_16P | USB_C_Receptacle_XKB_U262-16XN-4BVC11    | 0        | 0      | Do Not Place    | Do Not Place       |
 
 <img width="1127" height="392" alt="image" src="https://github.com/user-attachments/assets/166dfbc9-49b2-4d0a-aab4-dd28671af9c3" />
