@@ -1,6 +1,6 @@
 # Arctyx Nano
 
-Arctyx Nano is an FPGA development board consisting of the ICE40UP5K FPGA from [Lattice](https://latticesemi.com) Semiconductor. Arctyx Nano also consists of the RP2350A MCU from [Raspberry Pi](https://raspberrypi.com).  
+Arctyx Nano is an FPGA development board consisting of the ICE40UP5K FPGA from [Lattice](https://latticesemi.com) Semiconductor. It also consists of the RP2350A MCU from [Raspberry Pi](https://raspberrypi.com).  
 
 Check out the board on [KiCanvas](https://kicanvas.org/?github=https://github.com/Keyaan-07/Arctyx-Nano/tree/main/hardware_Arctyx-Nano)
 
