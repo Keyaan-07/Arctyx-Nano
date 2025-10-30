@@ -103,3 +103,12 @@ I reoriented the PCB to so it looks better in the PCB editor.
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--01f30c7338f6a49f24f3c3b747b485c694a6be9f/image.png)
   
 
+## 10/30/2025 - BOM optiimisation!  
+
+I uhh changed the LEDs from 0402 Extended to 0603 basic and uhm i changed how they were placed on the board and i will now be using the C9002 crystal, thanks Kai! Will update the BOM and the costs. Here are the new images:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjYyMywicHVyIjoiYmxvYl9pZCJ9fQ==--8e1904238cc1f1fccc21d808b4f02b6aca25bab1/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjYyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--e6b70fa875c88a282129f9bd7cd3edc8870532b8/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjYyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--aa55d5a0bad0d9bb9f541c5560fe5d0c517d5ac6/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjYyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--746e39f46ccdf6352eff357e452a159029f6b39d/image.png)
+  
+
