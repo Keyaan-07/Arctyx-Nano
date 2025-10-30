@@ -13572,7 +13572,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9faca46a-a951-4d97-a7d6-34a8889f867c")
-		(property "Reference" "D2"
+		(property "Reference" "D1"
 			(at 37.084 132.588 0)
 			(effects
 				(font
@@ -13633,7 +13633,7 @@
 		(instances
 			(project "hardware_Arctyx-Nano"
 				(path "/dadf11aa-8e96-42b0-bb48-2980919511bd"
-					(reference "D2")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -14206,7 +14206,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b6129ef6-566e-45b5-92c4-841165d87305")
-		(property "Reference" "D1"
+		(property "Reference" "D2"
 			(at 37.084 137.922 0)
 			(effects
 				(font
@@ -14267,7 +14267,7 @@
 		(instances
 			(project ""
 				(path "/dadf11aa-8e96-42b0-bb48-2980919511bd"
-					(reference "D1")
+					(reference "D2")
 					(unit 1)
 				)
 			)
