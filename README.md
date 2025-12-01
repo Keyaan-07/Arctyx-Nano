@@ -4,7 +4,8 @@ Arctyx Nano is an FPGA development board carrying the ICE40UP5K FPGA from Lattic
 
 Check out the board on [KiCanvas](https://kicanvas.org/?github=https://github.com/Keyaan-07/Arctyx-Nano/tree/main/hardware_Arctyx-Nano)
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjYyMywicHVyIjoiYmxvYl9pZCJ9fQ==--8e1904238cc1f1fccc21d808b4f02b6aca25bab1/image.png)  
+![assembled PCB](/media/arctyx-nano.jpg)
+![arctyx nano held by tweezers](/media/arctyx-nano-held-by-tweezers.jpg)
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjYyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--e6b70fa875c88a282129f9bd7cd3edc8870532b8/image.png)  
 
 ## Features:
