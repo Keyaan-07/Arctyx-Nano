@@ -66,7 +66,7 @@ Check out the board on [KiCanvas](https://kicanvas.org/?github=https://github.co
 | PCB               | 17.8  | 4-Layers           |
 | PCBA              | 52.77 | Kinda Dense board  |
 | Shipping from JLC | 9.28  |                    |
-| coupon Discount   | \-9   | SMT monthly coupon |
+| coupon Discount   | \-9   |                    |
 | Total             | 70.85 | USD                |
 
 ### PCB Components Breakdown
@@ -96,8 +96,6 @@ Check out the board on [KiCanvas](https://kicanvas.org/?github=https://github.co
 | U5                                                  | TJ-S1608SW6TDSLCCYRGB-A5    | LED-ARRAY-SMD_4P-L1.6-W0.8-BL-FD         | 6        | 0.4314 | Extended        | C5356078           |
 | Y1                                                  | Crystal_GND24               | Crystal_SMD_3225-4Pin_3.2x2.5mm          | 2        | 0.1290  | Basic        | C9002          |
 | J1                                                  | USB_C_Receptacle_USB2.0_16P | USB_C_Receptacle_XKB_U262-16XN-4BVC11    | 0        | 0      | Do Not Place    | Do Not Place       |
-
-<img width="1149" height="516" alt="image" src="https://github.com/user-attachments/assets/9f54a06f-3328-4dee-9e41-1fde40841cb8" />
 
 
 
