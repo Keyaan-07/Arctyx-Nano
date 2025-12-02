@@ -11063,7 +11063,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "18p"
+		(property "Value" "15p"
 			(at 198.12 126.9999 0)
 			(effects
 				(font
@@ -11269,7 +11269,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "22k"
 			(at 125.73 219.964 90)
 			(effects
 				(font
@@ -12054,7 +12054,7 @@
 				)
 			)
 		)
-		(property "Value" "22k"
+		(property "Value" "100k"
 			(at 104.14 230.124 90)
 			(effects
 				(font
@@ -15221,7 +15221,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "18p"
+		(property "Value" "15p"
 			(at 198.12 142.2399 0)
 			(effects
 				(font
