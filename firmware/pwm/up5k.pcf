@@ -1,0 +1,3 @@
+set_io -nowarn led_blue 41
+set_io -nowarn led_green 40
+set_io -nowarn led_red 39
