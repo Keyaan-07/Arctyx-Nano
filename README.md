@@ -8,6 +8,8 @@ Check out the board on [KiCanvas](https://kicanvas.org/?github=https://github.co
 ![arctyx nano held by tweezers](/media/arctyx-nano-held-by-tweezers.jpg)
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjYyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--e6b70fa875c88a282129f9bd7cd3edc8870532b8/image.png)  
 
+### This PCB is now sponsored by [PCBWay](https://pcbway.com/g/8Yd5CM)
+
 ## Features:
 > Dual core ARM Cortex-M33 Processor (also everything else the RP2350 has)  
 > 8 channel bus connecting the FPGA and the RP2350A  
@@ -66,7 +68,7 @@ Check out the board on [KiCanvas](https://kicanvas.org/?github=https://github.co
 | ----------------- | ----- | ------------------ |
 | PCB               | 17.8  | 4-Layers           |
 | PCBA              | 52.77 | Kinda Dense board  |
-| Shipping from JLC | 9.28  |                    |
+| Shipping charges  | 9.28  |                    |
 | coupon Discount   | \-9   |                    |
 | Total             | 70.85 | USD                |
 
